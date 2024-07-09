@@ -1,0 +1,201 @@
+cloth_id,cloth_name,gender,cloth_type,cloth_material,size,price,customer_review_rating,description,years_used
+1,Men's T-shirt,Men,T-shirt,Cotton,L,500,9,Great fit and comfortable fabric,1
+2,Women's Jeans,Women,Jeans,Denim,M,1200,8,"Good quality denim, but the size runs small",2
+3,Men's Formal Shirt,Men,Shirt,Cotton,L,800,8.5,Nice fabric and fits well,1
+4,Women's Dress,Women,Dress,Polyester,S,1500,7,Color faded after first wash,1
+5,Men's Polo Shirt,Men,Shirt,Cotton,XL,600,9,"Excellent quality, true to size",1
+6,Women's Leggings,Women,Leggings,Spandex,M,700,8,"Comfortable and stretchy, but slightly sheer",1
+7,Men's Hoodie,Men,Hoodie,Fleece,L,900,9,"Warm and cozy, perfect for winter",2
+8,Women's Skirt,Women,Skirt,Cotton,S,1000,8.5,"Cute design, but fabric wrinkles easily",1
+9,Men's Jeans,Men,Jeans,Denim,M,1100,7,"Decent quality, but the size is not accurate",2
+10,Women's Blouse,Women,Blouse,Silk,M,1300,9,Beautiful fabric and fits perfectly,1
+11,Men's Shorts,Men,Shorts,Cotton,L,700,8,"Good for casual wear, comfortable fabric",1
+12,Women's T-shirt,Women,T-shirt,Cotton,S,400,7.5,"Shrank after first wash, disappointed with size",2
+13,Men's Chinos,Men,Chinos,Cotton,XL,850,8.5,Great fit and nice color,1
+14,Women's Cardigan,Women,Cardigan,Wool,M,1200,9,"Warm and stylish, love the design",2
+15,Men's Sweatshirt,Men,Sweatshirt,Polyester,L,800,7,"Not as soft as expected, average quality",1
+16,Women's Jacket,Women,Jacket,Leather,S,2000,8,"Stylish and comfortable, but a bit pricey",1
+17,Men's Formal Pants,Men,Pants,Polyester,M,900,9,"Professional look, comfortable to wear",1
+18,Women's Jumpsuit,Women,Jumpsuit,Cotton,M,1400,8,"Cute design, but the fabric feels cheap",2
+19,Men's Blazer,Men,Blazer,Wool,XL,1800,8.5,"Classic style, good quality fabric",1
+20,Women's Hoodie,Women,Hoodie,Fleece,S,1000,7,"Thin material, not suitable for winter",2
+21,Men's Polo Shirt,Men,Shirt,Cotton,L,600,9,"Excellent quality, true to size",1
+22,Women's Leggings,Women,Leggings,Spandex,M,700,8,"Comfortable and stretchy, but slightly sheer",1
+23,Men's Hoodie,Men,Hoodie,Fleece,L,900,9,"Warm and cozy, perfect for winter",2
+24,Women's Skirt,Women,Skirt,Cotton,S,1000,8.5,"Cute design, but fabric wrinkles easily",1
+25,Men's Jeans,Men,Jeans,Denim,M,1100,7,"Decent quality, but the size is not accurate",2
+26,Women's Blouse,Women,Blouse,Silk,M,1300,9,Beautiful fabric and fits perfectly,1
+27,Men's Shorts,Men,Shorts,Cotton,L,700,8,"Good for casual wear, comfortable fabric",1
+28,Women's T-shirt,Women,T-shirt,Cotton,S,400,7.5,"Shrank after first wash, disappointed with size",2
+29,Men's Chinos,Men,Chinos,Cotton,XL,850,8.5,Great fit and nice color,1
+30,Women's Cardigan,Women,Cardigan,Wool,M,1200,9,"Warm and stylish, love the design",2
+31,Men's Sweatshirt,Men,Sweatshirt,Polyester,L,800,7,"Not as soft as expected, average quality",1
+32,Women's Jacket,Women,Jacket,Leather,S,2000,8,"Stylish and comfortable, but a bit pricey",1
+33,Men's Formal Pants,Men,Pants,Polyester,M,900,9,"Professional look, comfortable to wear",1
+34,Women's Jumpsuit,Women,Jumpsuit,Cotton,M,1400,8,"Cute design, but the fabric feels cheap",2
+35,Men's Blazer,Men,Blazer,Wool,XL,1800,8.5,"Classic style, good quality fabric",1
+36,Women's Hoodie,Women,Hoodie,Fleece,S,1000,7,"Thin material, not suitable for winter",2
+37,Men's Polo Shirt,Men,Shirt,Cotton,L,600,9,"Excellent quality, true to size",1
+38,Women's Leggings,Women,Leggings,Spandex,M,700,8,"Comfortable and stretchy, but slightly sheer",1
+39,Men's Hoodie,Men,Hoodie,Fleece,L,900,9,"Warm and cozy, perfect for winter",2
+40,Women's Skirt,Women,Skirt,Cotton,S,1000,8.5,"Cute design, but fabric wrinkles easily",1
+41,Men's Jeans,Men,Jeans,Denim,M,1100,7,"Decent quality, but the size is not accurate",2
+42,Women's Blouse,Women,Blouse,Silk,M,1300,9,Beautiful fabric and fits perfectly,1
+43,Men's Shorts,Men,Shorts,Cotton,L,700,8,"Good for casual wear, comfortable fabric",1
+44,Women's T-shirt,Women,T-shirt,Cotton,S,400,7.5,"Shrank after first wash, disappointed with size",2
+45,Men's Chinos,Men,Chinos,Cotton,XL,850,8.5,Great fit and nice color,1
+46,Women's Cardigan,Women,Cardigan,Wool,M,1200,9,"Warm and stylish, love the design",2
+47,Men's Sweatshirt,Men,Sweatshirt,Polyester,L,800,7,"Not as soft as expected, average quality",1
+48,Women's Jacket,Women,Jacket,Leather,S,2000,8,"Stylish and comfortable, but a bit pricey",1
+49,Men's Formal Pants,Men,Pants,Polyester,M,900,9,"Professional look, comfortable to wear",1
+50,Women's Jumpsuit,Women,Jumpsuit,Cotton,M,1400,8,"Cute design, but the fabric feels cheap",2
+51,Men's Blazer,Men,Blazer,Wool,XL,1800,8.5,"Classic style, good quality fabric",1
+52,Women's Hoodie,Women,Hoodie,Fleece,S,1000,7,"Thin material, not suitable for winter",2
+53,Men's Polo Shirt,Men,Shirt,Cotton,L,600,9,"Excellent quality, true to size",1
+54,Women's Leggings,Women,Leggings,Spandex,M,700,8,"Comfortable and stretchy, but slightly sheer",1
+55,Men's Hoodie,Men,Hoodie,Fleece,L,900,9,"Warm and cozy, perfect for winter",2
+56,Women's Skirt,Women,Skirt,Cotton,S,1000,8.5,"Cute design, but fabric wrinkles easily",1
+57,Men's Jeans,Men,Jeans,Denim,M,1100,7,"Decent quality, but the size is not accurate",2
+58,Women's Blouse,Women,Blouse,Silk,M,1300,9,Beautiful fabric and fits perfectly,1
+59,Men's Shorts,Men,Shorts,Cotton,L,700,8,"Good for casual wear, comfortable fabric",1
+60,Women's T-shirt,Women,T-shirt,Cotton,S,400,7.5,"Shrank after first wash, disappointed with size",2
+61,Men's Chinos,Men,Chinos,Cotton,XL,850,8.5,Great fit and nice color,1
+62,Women's Cardigan,Women,Cardigan,Wool,M,1200,9,"Warm and stylish, love the design",2
+63,Men's Sweatshirt,Men,Sweatshirt,Polyester,L,800,7,"Not as soft as expected, average quality",1
+64,Women's Jacket,Women,Jacket,Leather,S,2000,8,"Stylish and comfortable, but a bit pricey",1
+65,Men's Formal Pants,Men,Pants,Polyester,M,900,9,"Professional look, comfortable to wear",1
+66,Women's Jumpsuit,Women,Jumpsuit,Cotton,M,1400,8,"Cute design, but the fabric feels cheap",2
+67,Men's Blazer,Men,Blazer,Wool,XL,1800,8.5,"Classic style, good quality fabric",1
+68,Women's Hoodie,Women,Hoodie,Fleece,S,1000,7,"Thin material, not suitable for winter",2
+69,Men's Polo Shirt,Men,Shirt,Cotton,L,600,9,"Excellent quality, true to size",1
+70,Women's Leggings,Women,Leggings,Spandex,M,700,8,"Comfortable and stretchy, but slightly sheer",1
+71,Men's Hoodie,Men,Hoodie,Fleece,L,900,9,"Warm and cozy, perfect for winter",2
+72,Women's Skirt,Women,Skirt,Cotton,S,1000,8.5,"Cute design, but fabric wrinkles easily",1
+73,Men's Jeans,Men,Jeans,Denim,M,1100,7,"Decent quality, but the size is not accurate",2
+74,Women's Blouse,Women,Blouse,Silk,M,1300,9,Beautiful fabric and fits perfectly,1
+75,Men's Shorts,Men,Shorts,Cotton,L,700,8,"Good for casual wear, comfortable fabric",1
+76,Women's T-shirt,Women,T-shirt,Cotton,S,400,7.5,"Shrank after first wash, disappointed with size",2
+77,Men's Chinos,Men,Chinos,Cotton,XL,850,8.5,Great fit and nice color,1
+78,Women's Cardigan,Women,Cardigan,Wool,M,1200,9,"Warm and stylish, love the design",2
+79,Men's Sweatshirt,Men,Sweatshirt,Polyester,L,800,7,"Not as soft as expected, average quality",1
+80,Women's Jacket,Women,Jacket,Leather,S,2000,8,"Stylish and comfortable, but a bit pricey",1
+81,Men's Formal Pants,Men,Pants,Polyester,M,900,9,"Professional look, comfortable to wear",1
+82,Women's Jumpsuit,Women,Jumpsuit,Cotton,M,1400,8,"Cute design, but the fabric feels cheap",2
+83,Men's Blazer,Men,Blazer,Wool,XL,1800,8.5,"Classic style, good quality fabric",1
+84,Women's Hoodie,Women,Hoodie,Fleece,S,1000,7,"Thin material, not suitable for winter",2
+85,Men's Polo Shirt,Men,Shirt,Cotton,L,600,9,"Excellent quality, true to size",1
+86,Women's Leggings,Women,Leggings,Spandex,M,700,8,"Comfortable and stretchy, but slightly sheer",1
+87,Men's Hoodie,Men,Hoodie,Fleece,L,900,9,"Warm and cozy, perfect for winter",2
+88,Women's Skirt,Women,Skirt,Cotton,S,1000,8.5,"Cute design, but fabric wrinkles easily",1
+89,Men's Jeans,Men,Jeans,Denim,M,1100,7,"Decent quality, but the size is not accurate",2
+90,Women's Blouse,Women,Blouse,Silk,M,1300,9,Beautiful fabric and fits perfectly,1
+91,Men's Shorts,Men,Shorts,Cotton,L,700,8,"Good for casual wear, comfortable fabric",1
+92,Women's T-shirt,Women,T-shirt,Cotton,S,400,7.5,"Shrank after first wash, disappointed with size",2
+93,Men's Chinos,Men,Chinos,Cotton,XL,850,8.5,Great fit and nice color,1
+94,Women's Cardigan,Women,Cardigan,Wool,M,1200,9,"Warm and stylish, love the design",2
+95,Men's Sweatshirt,Men,Sweatshirt,Polyester,L,800,7,"Not as soft as expected, average quality",1
+96,Women's Jacket,Women,Jacket,Leather,S,2000,8,"Stylish and comfortable, but a bit pricey",1
+97,Men's Formal Pants,Men,Pants,Polyester,M,900,9,"Professional look, comfortable to wear",1
+98,Women's Jumpsuit,Women,Jumpsuit,Cotton,M,1400,8,"Cute design, but the fabric feels cheap",2
+99,Men's Blazer,Men,Blazer,Wool,XL,1800,8.5,"Classic style, good quality fabric",1
+100,Women's Hoodie,Women,Hoodie,Fleece,S,1000,7,"Thin material, not suitable for winter",2
+101,Men's Polo Shirt,Men,Shirt,Cotton,L,600,9,"Excellent quality, true to size",1
+102,Women's Leggings,Women,Leggings,Spandex,M,700,8,"Comfortable and stretchy, but slightly sheer",1
+103,Men's Hoodie,Men,Hoodie,Fleece,L,900,9,"Warm and cozy, perfect for winter",2
+104,Women's Skirt,Women,Skirt,Cotton,S,1000,8.5,"Cute design, but fabric wrinkles easily",1
+105,Men's Jeans,Men,Jeans,Denim,M,1100,7,"Decent quality, but the size is not accurate",2
+106,Women's Blouse,Women,Blouse,Silk,M,1300,9,Beautiful fabric and fits perfectly,1
+107,Men's Shorts,Men,Shorts,Cotton,L,700,8,"Good for casual wear, comfortable fabric",1
+108,Women's T-shirt,Women,T-shirt,Cotton,S,400,7.5,"Shrank after first wash, disappointed with size",2
+109,Men's Chinos,Men,Chinos,Cotton,XL,850,8.5,Great fit and nice color,1
+110,Women's Cardigan,Women,Cardigan,Wool,M,1200,9,"Warm and stylish, love the design",2
+111,Men's Sweatshirt,Men,Sweatshirt,Polyester,L,800,7,"Not as soft as expected, average quality",1
+112,Women's Jacket,Women,Jacket,Leather,S,2000,8,"Stylish and comfortable, but a bit pricey",1
+113,Men's Formal Pants,Men,Pants,Polyester,M,900,9,"Professional look, comfortable to wear",1
+114,Women's Jumpsuit,Women,Jumpsuit,Cotton,M,1400,8,"Cute design, but the fabric feels cheap",2
+115,Men's Blazer,Men,Blazer,Wool,XL,1800,8.5,"Classic style, good quality fabric",1
+116,Women's Hoodie,Women,Hoodie,Fleece,S,1000,7,"Thin material, not suitable for winter",2
+117,Men's Polo Shirt,Men,Shirt,Cotton,L,600,9,"Excellent quality, true to size",1
+118,Women's Leggings,Women,Leggings,Spandex,M,700,8,"Comfortable and stretchy, but slightly sheer",1
+119,Men's Hoodie,Men,Hoodie,Fleece,L,900,9,"Warm and cozy, perfect for winter",2
+120,Women's Skirt,Women,Skirt,Cotton,S,1000,8.5,"Cute design, but fabric wrinkles easily",1
+121,Men's Jeans,Men,Jeans,Denim,M,1100,7,"Decent quality, but the size is not accurate",2
+122,Women's Blouse,Women,Blouse,Silk,M,1300,9,Beautiful fabric and fits perfectly,1
+123,Men's Shorts,Men,Shorts,Cotton,L,700,8,"Good for casual wear, comfortable fabric",1
+124,Women's T-shirt,Women,T-shirt,Cotton,S,400,7.5,"Shrank after first wash, disappointed with size",2
+125,Men's Chinos,Men,Chinos,Cotton,XL,850,8.5,Great fit and nice color,1
+126,Women's Cardigan,Women,Cardigan,Wool,M,1200,9,"Warm and stylish, love the design",2
+127,Men's Sweatshirt,Men,Sweatshirt,Polyester,L,800,7,"Not as soft as expected, average quality",1
+128,Women's Jacket,Women,Jacket,Leather,S,2000,8,"Stylish and comfortable, but a bit pricey",1
+129,Men's Formal Pants,Men,Pants,Polyester,M,900,9,"Professional look, comfortable to wear",1
+130,Women's Jumpsuit,Women,Jumpsuit,Cotton,M,1400,8,"Cute design, but the fabric feels cheap",2
+131,Men's Blazer,Men,Blazer,Wool,XL,1800,8.5,"Classic style, good quality fabric",1
+132,Women's Hoodie,Women,Hoodie,Fleece,S,1000,7,"Thin material, not suitable for winter",2
+133,Men's Polo Shirt,Men,Shirt,Cotton,L,600,9,"Excellent quality, true to size",1
+134,Women's Leggings,Women,Leggings,Spandex,M,700,8,"Comfortable and stretchy, but slightly sheer",1
+135,Men's Hoodie,Men,Hoodie,Fleece,L,900,9,"Warm and cozy, perfect for winter",2
+136,Women's Skirt,Women,Skirt,Cotton,S,1000,8.5,"Cute design, but fabric wrinkles easily",1
+137,Men's Jeans,Men,Jeans,Denim,M,1100,7,"Decent quality, but the size is not accurate",2
+138,Women's Blouse,Women,Blouse,Silk,M,1300,9,Beautiful fabric and fits perfectly,1
+139,Men's Shorts,Men,Shorts,Cotton,L,700,8,"Good for casual wear, comfortable fabric",1
+140,Women's T-shirt,Women,T-shirt,Cotton,S,400,7.5,"Shrank after first wash, disappointed with size",2
+141,Men's Chinos,Men,Chinos,Cotton,XL,850,8.5,Great fit and nice color,1
+142,Women's Cardigan,Women,Cardigan,Wool,M,1200,9,"Warm and stylish, love the design",2
+143,Men's Sweatshirt,Men,Sweatshirt,Polyester,L,800,7,"Not as soft as expected, average quality",1
+144,Women's Jacket,Women,Jacket,Leather,S,2000,8,"Stylish and comfortable, but a bit pricey",1
+145,Men's Formal Pants,Men,Pants,Polyester,M,900,9,"Professional look, comfortable to wear",1
+146,Women's Jumpsuit,Women,Jumpsuit,Cotton,M,1400,8,"Cute design, but the fabric feels cheap",2
+147,Men's Blazer,Men,Blazer,Wool,XL,1800,8.5,"Classic style, good quality fabric",1
+148,Women's Hoodie,Women,Hoodie,Fleece,S,1000,7,"Thin material, not suitable for winter",2
+149,Men's Polo Shirt,Men,Shirt,Cotton,L,600,9,"Excellent quality, true to size",1
+150,Women's Leggings,Women,Leggings,Spandex,M,700,8,"Comfortable and stretchy, but slightly sheer",1
+151,Men's Hoodie,Men,Hoodie,Fleece,L,900,9,"Warm and cozy, perfect for winter",2
+152,Women's Skirt,Women,Skirt,Cotton,S,1000,8.5,"Cute design, but fabric wrinkles easily",1
+153,Men's Jeans,Men,Jeans,Denim,M,1100,7,"Decent quality, but the size is not accurate",2
+154,Women's Blouse,Women,Blouse,Silk,M,1300,9,Beautiful fabric and fits perfectly,1
+155,Men's Shorts,Men,Shorts,Cotton,L,700,8,"Good for casual wear, comfortable fabric",1
+156,Women's T-shirt,Women,T-shirt,Cotton,S,400,7.5,"Shrank after first wash, disappointed with size",2
+157,Men's Chinos,Men,Chinos,Cotton,XL,850,8.5,Great fit and nice color,1
+158,Women's Cardigan,Women,Cardigan,Wool,M,1200,9,"Warm and stylish, love the design",2
+159,Men's Sweatshirt,Men,Sweatshirt,Polyester,L,800,7,"Not as soft as expected, average quality",1
+160,Women's Jacket,Women,Jacket,Leather,S,2000,8,"Stylish and comfortable, but a bit pricey",1
+161,Men's Formal Pants,Men,Pants,Polyester,M,900,9,"Professional look, comfortable to wear",1
+162,Women's Jumpsuit,Women,Jumpsuit,Cotton,M,1400,8,"Cute design, but the fabric feels cheap",2
+163,Men's Blazer,Men,Blazer,Wool,XL,1800,8.5,"Classic style, good quality fabric",1
+164,Women's Hoodie,Women,Hoodie,Fleece,S,1000,7,"Thin material, not suitable for winter",2
+165,Men's Polo Shirt,Men,Shirt,Cotton,L,600,9,"Excellent quality, true to size",1
+166,Women's Leggings,Women,Leggings,Spandex,M,700,8,"Comfortable and stretchy, but slightly sheer",1
+167,Men's Hoodie,Men,Hoodie,Fleece,L,900,9,"Warm and cozy, perfect for winter",2
+168,Women's Skirt,Women,Skirt,Cotton,S,1000,8.5,"Cute design, but fabric wrinkles easily",1
+169,Men's Jeans,Men,Jeans,Denim,M,1100,7,"Decent quality, but the size is not accurate",2
+170,Women's Blouse,Women,Blouse,Silk,M,1300,9,Beautiful fabric and fits perfectly,1
+171,Men's Shorts,Men,Shorts,Cotton,L,700,8,"Good for casual wear, comfortable fabric",1
+172,Women's T-shirt,Women,T-shirt,Cotton,S,400,7.5,"Shrank after first wash, disappointed with size",2
+173,Men's Chinos,Men,Chinos,Cotton,XL,850,8.5,Great fit and nice color,1
+174,Women's Cardigan,Women,Cardigan,Wool,M,1200,9,"Warm and stylish, love the design",2
+175,Men's Sweatshirt,Men,Sweatshirt,Polyester,L,800,7,"Not as soft as expected, average quality",1
+176,Women's Jacket,Women,Jacket,Leather,S,2000,8,"Stylish and comfortable, but a bit pricey",1
+177,Men's Formal Pants,Men,Pants,Polyester,M,900,9,"Professional look, comfortable to wear",1
+178,Women's Jumpsuit,Women,Jumpsuit,Cotton,M,1400,8,"Cute design, but the fabric feels cheap",2
+179,Men's Blazer,Men,Blazer,Wool,XL,1800,8.5,"Classic style, good quality fabric",1
+180,Women's Hoodie,Women,Hoodie,Fleece,S,1000,7,"Thin material, not suitable for winter",2
+181,Men's Polo Shirt,Men,Shirt,Cotton,L,600,9,"Excellent quality, true to size",1
+182,Women's Leggings,Women,Leggings,Spandex,M,700,8,"Comfortable and stretchy, but slightly sheer",1
+183,Men's Hoodie,Men,Hoodie,Fleece,L,900,9,"Warm and cozy, perfect for winter",2
+184,Women's Skirt,Women,Skirt,Cotton,S,1000,8.5,"Cute design, but fabric wrinkles easily",1
+185,Men's Jeans,Men,Jeans,Denim,M,1100,7,"Decent quality, but the size is not accurate",2
+186,Women's Blouse,Women,Blouse,Silk,M,1300,9,Beautiful fabric and fits perfectly,1
+187,Men's Shorts,Men,Shorts,Cotton,L,700,8,"Good for casual wear, comfortable fabric",1
+188,Women's T-shirt,Women,T-shirt,Cotton,S,400,7.5,"Shrank after first wash, disappointed with size",2
+189,Men's Chinos,Men,Chinos,Cotton,XL,850,8.5,Great fit and nice color,1
+190,Women's Cardigan,Women,Cardigan,Wool,M,1200,9,"Warm and stylish, love the design",2
+191,Men's Sweatshirt,Men,Sweatshirt,Polyester,L,800,7,"Not as soft as expected, average quality",1
+192,Women's Jacket,Women,Jacket,Leather,S,2000,8,"Stylish and comfortable, but a bit pricey",1
+193,Men's Formal Pants,Men,Pants,Polyester,M,900,9,"Professional look, comfortable to wear",1
+194,Women's Jumpsuit,Women,Jumpsuit,Cotton,M,1400,8,"Cute design, but the fabric feels cheap",2
+195,Men's Blazer,Men,Blazer,Wool,XL,1800,8.5,"Classic style, good quality fabric",1
+196,Women's Hoodie,Women,Hoodie,Fleece,S,1000,7,"Thin material, not suitable for winter",2
+197,Men's Polo Shirt,Men,Shirt,Cotton,L,600,9,"Excellent quality, true to size",1
+198,Women's Leggings,Women,Leggings,Spandex,M,700,8,"Comfortable and stretchy, but slightly sheer",1
+199,Men's Hoodie,Men,Hoodie,Fleece,L,900,9,"Warm and cozy, perfect for winter",2
+200,Women's Skirt,Women,Skirt,Cotton,S,1000,8.5,"Cute design, but fabric wrinkles easily",1
