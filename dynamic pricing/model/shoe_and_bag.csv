@@ -1,0 +1,201 @@
+sb_id,sb_name,sb_type,sb_brand,price,customer_review_rating,description,years_used
+1,"Running Shoes","Sports Shoes","Nike",5000,9,"Great for running, very comfortable",1
+2,"Casual Sneakers","Casual Shoes","Adidas",4000,8,"Stylish sneakers, but a bit tight on the toes",2
+3,"Formal Loafers","Formal Shoes","Clarks",6000,7,"Good quality loafers, but not very comfortable for long walks",3
+4,"Hiking Boots","Outdoor Shoes","Merrell",7000,9,"Durable boots, perfect for hiking in rough terrain",1
+5,"Basketball Shoes","Sports Shoes","Jordan",5500,8,"Good ankle support, but a bit heavy",2
+6,"Flip Flops","Casual Shoes","Havaianas",1000,7,"Simple flip flops, good for the beach",3
+7,"Running Shoes","Sports Shoes","Nike",5000,9,"Great for running, very comfortable",1
+8,"Casual Sneakers","Casual Shoes","Adidas",4000,8,"Stylish sneakers, but a bit tight on the toes",2
+9,"Formal Loafers","Formal Shoes","Clarks",6000,7,"Good quality loafers, but not very comfortable for long walks",3
+10,"Hiking Boots","Outdoor Shoes","Merrell",7000,9,"Durable boots, perfect for hiking in rough terrain",1
+11,"Basketball Shoes","Sports Shoes","Jordan",5500,8,"Good ankle support, but a bit heavy",2
+12,"Flip Flops","Casual Shoes","Havaianas",1000,7,"Simple flip flops, good for the beach",3
+13,"Running Shoes","Sports Shoes","Nike",5000,9,"Great for running, very comfortable",1
+14,"Casual Sneakers","Casual Shoes","Adidas",4000,8,"Stylish sneakers, but a bit tight on the toes",2
+15,"Formal Loafers","Formal Shoes","Clarks",6000,7,"Good quality loafers, but not very comfortable for long walks",3
+16,"Hiking Boots","Outdoor Shoes","Merrell",7000,9,"Durable boots, perfect for hiking in rough terrain",1
+17,"Basketball Shoes","Sports Shoes","Jordan",5500,8,"Good ankle support, but a bit heavy",2
+18,"Flip Flops","Casual Shoes","Havaianas",1000,7,"Simple flip flops, good for the beach",3
+19,"Running Shoes","Sports Shoes","Nike",5000,9,"Great for running, very comfortable",1
+20,"Casual Sneakers","Casual Shoes","Adidas",4000,8,"Stylish sneakers, but a bit tight on the toes",2
+21,"Formal Loafers","Formal Shoes","Clarks",6000,7,"Good quality loafers, but not very comfortable for long walks",3
+22,"Hiking Boots","Outdoor Shoes","Merrell",7000,9,"Durable boots, perfect for hiking in rough terrain",1
+23,"Basketball Shoes","Sports Shoes","Jordan",5500,8,"Good ankle support, but a bit heavy",2
+24,"Flip Flops","Casual Shoes","Havaianas",1000,7,"Simple flip flops, good for the beach",3
+25,"Running Shoes","Sports Shoes","Nike",5000,9,"Great for running, very comfortable",1
+26,"Casual Sneakers","Casual Shoes","Adidas",4000,8,"Stylish sneakers, but a bit tight on the toes",2
+27,"Formal Loafers","Formal Shoes","Clarks",6000,7,"Good quality loafers, but not very comfortable for long walks",3
+28,"Hiking Boots","Outdoor Shoes","Merrell",7000,9,"Durable boots, perfect for hiking in rough terrain",1
+29,"Basketball Shoes","Sports Shoes","Jordan",5500,8,"Good ankle support, but a bit heavy",2
+30,"Flip Flops","Casual Shoes","Havaianas",1000,7,"Simple flip flops, good for the beach",3
+31,"Running Shoes","Sports Shoes","Nike",5000,9,"Great for running, very comfortable",1
+32,"Casual Sneakers","Casual Shoes","Adidas",4000,8,"Stylish sneakers, but a bit tight on the toes",2
+33,"Formal Loafers","Formal Shoes","Clarks",6000,7,"Good quality loafers, but not very comfortable for long walks",3
+34,"Hiking Boots","Outdoor Shoes","Merrell",7000,9,"Durable boots, perfect for hiking in rough terrain",1
+35,"Basketball Shoes","Sports Shoes","Jordan",5500,8,"Good ankle support, but a bit heavy",2
+36,"Flip Flops","Casual Shoes","Havaianas",1000,7,"Simple flip flops, good for the beach",3
+37,"Running Shoes","Sports Shoes","Nike",5000,9,"Great for running, very comfortable",1
+38,"Casual Sneakers","Casual Shoes","Adidas",4000,8,"Stylish sneakers, but a bit tight on the toes",2
+39,"Formal Loafers","Formal Shoes","Clarks",6000,7,"Good quality loafers, but not very comfortable for long walks",3
+40,"Hiking Boots","Outdoor Shoes","Merrell",7000,9,"Durable boots, perfect for hiking in rough terrain",1
+41,"Basketball Shoes","Sports Shoes","Jordan",5500,8,"Good ankle support, but a bit heavy",2
+42,"Flip Flops","Casual Shoes","Havaianas",1000,7,"Simple flip flops, good for the beach",3
+43,"Running Shoes","Sports Shoes","Nike",5000,9,"Great for running, very comfortable",1
+44,"Casual Sneakers","Casual Shoes","Adidas",4000,8,"Stylish sneakers, but a bit tight on the toes",2
+45,"Formal Loafers","Formal Shoes","Clarks",6000,7,"Good quality loafers, but not very comfortable for long walks",3
+46,"Hiking Boots","Outdoor Shoes","Merrell",7000,9,"Durable boots, perfect for hiking in rough terrain",1
+47,"Basketball Shoes","Sports Shoes","Jordan",5500,8,"Good ankle support, but a bit heavy",2
+48,"Flip Flops","Casual Shoes","Havaianas",1000,7,"Simple flip flops, good for the beach",3
+49,"Running Shoes","Sports Shoes","Nike",5000,9,"Great for running, very comfortable",1
+50,"Casual Sneakers","Casual Shoes","Adidas",4000,8,"Stylish sneakers, but a bit tight on the toes",2
+51,"Formal Loafers","Formal Shoes","Clarks",6000,7,"Good quality loafers, but not very comfortable for long walks",3
+52,"Hiking Boots","Outdoor Shoes","Merrell",7000,9,"Durable boots, perfect for hiking in rough terrain",1
+53,"Basketball Shoes","Sports Shoes","Jordan",5500,8,"Good ankle support, but a bit heavy",2
+54,"Flip Flops","Casual Shoes","Havaianas",1000,7,"Simple flip flops, good for the beach",3
+55,"Running Shoes","Sports Shoes","Nike",5000,9,"Great for running, very comfortable",1
+56,"Casual Sneakers","Casual Shoes","Adidas",4000,8,"Stylish sneakers, but a bit tight on the toes",2
+57,"Formal Loafers","Formal Shoes","Clarks",6000,7,"Good quality loafers, but not very comfortable for long walks",3
+58,"Hiking Boots","Outdoor Shoes","Merrell",7000,9,"Durable boots, perfect for hiking in rough terrain",1
+59,"Basketball Shoes","Sports Shoes","Jordan",5500,8,"Good ankle support, but a bit heavy",2
+60,"Flip Flops","Casual Shoes","Havaianas",1000,7,"Simple flip flops, good for the beach",3
+61,"Running Shoes","Sports Shoes","Nike",5000,9,"Great for running, very comfortable",1
+62,"Casual Sneakers","Casual Shoes","Adidas",4000,8,"Stylish sneakers, but a bit tight on the toes",2
+63,"Formal Loafers","Formal Shoes","Clarks",6000,7,"Good quality loafers, but not very comfortable for long walks",3
+64,"Hiking Boots","Outdoor Shoes","Merrell",7000,9,"Durable boots, perfect for hiking in rough terrain",1
+65,"Basketball Shoes","Sports Shoes","Jordan",5500,8,"Good ankle support, but a bit heavy",2
+66,"Flip Flops","Casual Shoes","Havaianas",1000,7,"Simple flip flops, good for the beach",3
+67,"Running Shoes","Sports Shoes","Nike",5000,9,"Great for running, very comfortable",1
+68,"Casual Sneakers","Casual Shoes","Adidas",4000,8,"Stylish sneakers, but a bit tight on the toes",2
+69,"Formal Loafers","Formal Shoes","Clarks",6000,7,"Good quality loafers, but not very comfortable for long walks",3
+70,"Hiking Boots","Outdoor Shoes","Merrell",7000,9,"Durable boots, perfect for hiking in rough terrain",1
+71,"Basketball Shoes","Sports Shoes","Jordan",5500,8,"Good ankle support, but a bit heavy",2
+72,"Flip Flops","Casual Shoes","Havaianas",1000,7,"Simple flip flops, good for the beach",3
+73,"Running Shoes","Sports Shoes","Nike",5000,9,"Great for running, very comfortable",1
+74,"Casual Sneakers","Casual Shoes","Adidas",4000,8,"Stylish sneakers, but a bit tight on the toes",2
+75,"Formal Loafers","Formal Shoes","Clarks",6000,7,"Good quality loafers, but not very comfortable for long walks",3
+76,"Hiking Boots","Outdoor Shoes","Merrell",7000,9,"Durable boots, perfect for hiking in rough terrain",1
+77,"Basketball Shoes","Sports Shoes","Jordan",5500,8,"Good ankle support, but a bit heavy",2
+78,"Flip Flops","Casual Shoes","Havaianas",1000,7,"Simple flip flops, good for the beach",3
+79,"Running Shoes","Sports Shoes","Nike",5000,9,"Great for running, very comfortable",1
+80,"Casual Sneakers","Casual Shoes","Adidas",4000,8,"Stylish sneakers, but a bit tight on the toes",2
+81,"Formal Loafers","Formal Shoes","Clarks",6000,7,"Good quality loafers, but not very comfortable for long walks",3
+82,"Hiking Boots","Outdoor Shoes","Merrell",7000,9,"Durable boots, perfect for hiking in rough terrain",1
+83,"Basketball Shoes","Sports Shoes","Jordan",5500,8,"Good ankle support, but a bit heavy",2
+84,"Flip Flops","Casual Shoes","Havaianas",1000,7,"Simple flip flops, good for the beach",3
+85,"Running Shoes","Sports Shoes","Nike",5000,9,"Great for running, very comfortable",1
+86,"Casual Sneakers","Casual Shoes","Adidas",4000,8,"Stylish sneakers, but a bit tight on the toes",2
+87,"Formal Loafers","Formal Shoes","Clarks",6000,7,"Good quality loafers, but not very comfortable for long walks",3
+88,"Hiking Boots","Outdoor Shoes","Merrell",7000,9,"Durable boots, perfect for hiking in rough terrain",1
+89,"Basketball Shoes","Sports Shoes","Jordan",5500,8,"Good ankle support, but a bit heavy",2
+90,"Flip Flops","Casual Shoes","Havaianas",1000,7,"Simple flip flops, good for the beach",3
+91,"Running Shoes","Sports Shoes","Nike",5000,9,"Great for running, very comfortable",1
+92,"Casual Sneakers","Casual Shoes","Adidas",4000,8,"Stylish sneakers, but a bit tight on the toes",2
+93,"Formal Loafers","Formal Shoes","Clarks",6000,7,"Good quality loafers, but not very comfortable for long walks",3
+94,"Hiking Boots","Outdoor Shoes","Merrell",7000,9,"Durable boots, perfect for hiking in rough terrain",1
+95,"Basketball Shoes","Sports Shoes","Jordan",5500,8,"Good ankle support, but a bit heavy",2
+96,"Flip Flops","Casual Shoes","Havaianas",1000,7,"Simple flip flops, good for the beach",3
+97,"Running Shoes","Sports Shoes","Nike",5000,9,"Great for running, very comfortable",1
+98,"Casual Sneakers","Casual Shoes","Adidas",4000,8,"Stylish sneakers, but a bit tight on the toes",2
+99,"Formal Loafers","Formal Shoes","Clarks",6000,7,"Good quality loafers, but not very comfortable for long walks",3
+100,"Hiking Boots","Outdoor Shoes","Merrell",7000,9,"Durable boots, perfect for hiking in rough terrain",1
+101,"Sling Bag","Casual Bag","Adidas",2000,8,"Compact sling bag, convenient for carrying essentials",2
+102,"Trolley Bag","Luggage Bag","Samsonite",8000,9,"Sturdy trolley bag, glides smoothly",3
+103,"Backpack","Casual Backpack","Nike",3000,9,"Spacious backpack, great for daily use",1
+104,"Tote Bag","Shoulder Bag","Louis Vuitton",5000,8,"Stylish tote bag, but the straps could be sturdier",2
+105,"Messenger Bag","Crossbody Bag","Fossil",4000,7,"Good size messenger bag, but the material feels cheap",3
+106,"Duffel Bag","Travel Bag","The North Face",6000,9,"Durable duffel bag, perfect for weekend trips",1
+107,"Sling Bag","Casual Bag","Adidas",2000,8,"Compact sling bag, convenient for carrying essentials",2
+108,"Trolley Bag","Luggage Bag","Samsonite",8000,9,"Sturdy trolley bag, glides smoothly",3
+109,"Backpack","Casual Backpack","Nike",3000,9,"Spacious backpack, great for daily use",1
+110,"Tote Bag","Shoulder Bag","Louis Vuitton",5000,8,"Stylish tote bag, but the straps could be sturdier",2
+111,"Messenger Bag","Crossbody Bag","Fossil",4000,7,"Good size messenger bag, but the material feels cheap",3
+112,"Duffel Bag","Travel Bag","The North Face",6000,9,"Durable duffel bag, perfect for weekend trips",1
+113,"Sling Bag","Casual Bag","Adidas",2000,8,"Compact sling bag, convenient for carrying essentials",2
+114,"Trolley Bag","Luggage Bag","Samsonite",8000,9,"Sturdy trolley bag, glides smoothly",3
+115,"Backpack","Casual Backpack","Nike",3000,9,"Spacious backpack, great for daily use",1
+116,"Tote Bag","Shoulder Bag","Louis Vuitton",5000,8,"Stylish tote bag, but the straps could be sturdier",2
+117,"Messenger Bag","Crossbody Bag","Fossil",4000,7,"Good size messenger bag, but the material feels cheap",3
+118,"Duffel Bag","Travel Bag","The North Face",6000,9,"Durable duffel bag, perfect for weekend trips",1
+119,"Sling Bag","Casual Bag","Adidas",2000,8,"Compact sling bag, convenient for carrying essentials",2
+120,"Trolley Bag","Luggage Bag","Samsonite",8000,9,"Sturdy trolley bag, glides smoothly",3
+121,"Backpack","Casual Backpack","Nike",3000,9,"Spacious backpack, great for daily use",1
+122,"Tote Bag","Shoulder Bag","Louis Vuitton",5000,8,"Stylish tote bag, but the straps could be sturdier",2
+123,"Messenger Bag","Crossbody Bag","Fossil",4000,7,"Good size messenger bag, but the material feels cheap",3
+124,"Duffel Bag","Travel Bag","The North Face",6000,9,"Durable duffel bag, perfect for weekend trips",1
+125,"Sling Bag","Casual Bag","Adidas",2000,8,"Compact sling bag, convenient for carrying essentials",2
+126,"Trolley Bag","Luggage Bag","Samsonite",8000,9,"Sturdy trolley bag, glides smoothly",3
+127,"Backpack","Casual Backpack","Nike",3000,9,"Spacious backpack, great for daily use",1
+128,"Tote Bag","Shoulder Bag","Louis Vuitton",5000,8,"Stylish tote bag, but the straps could be sturdier",2
+129,"Messenger Bag","Crossbody Bag","Fossil",4000,7,"Good size messenger bag, but the material feels cheap",3
+130,"Duffel Bag","Travel Bag","The North Face",6000,9,"Durable duffel bag, perfect for weekend trips",1
+131,"Sling Bag","Casual Bag","Adidas",2000,8,"Compact sling bag, convenient for carrying essentials",2
+132,"Trolley Bag","Luggage Bag","Samsonite",8000,9,"Sturdy trolley bag, glides smoothly",3
+133,"Backpack","Casual Backpack","Nike",3000,9,"Spacious backpack, great for daily use",1
+134,"Tote Bag","Shoulder Bag","Louis Vuitton",5000,8,"Stylish tote bag, but the straps could be sturdier",2
+135,"Messenger Bag","Crossbody Bag","Fossil",4000,7,"Good size messenger bag, but the material feels cheap",3
+136,"Duffel Bag","Travel Bag","The North Face",6000,9,"Durable duffel bag, perfect for weekend trips",1
+137,"Sling Bag","Casual Bag","Adidas",2000,8,"Compact sling bag, convenient for carrying essentials",2
+138,"Trolley Bag","Luggage Bag","Samsonite",8000,9,"Sturdy trolley bag, glides smoothly",3
+139,"Backpack","Casual Backpack","Nike",3000,9,"Spacious backpack, great for daily use",1
+140,"Tote Bag","Shoulder Bag","Louis Vuitton",5000,8,"Stylish tote bag, but the straps could be sturdier",2
+141,"Messenger Bag","Crossbody Bag","Fossil",4000,7,"Good size messenger bag, but the material feels cheap",3
+142,"Duffel Bag","Travel Bag","The North Face",6000,9,"Durable duffel bag, perfect for weekend trips",1
+143,"Sling Bag","Casual Bag","Adidas",2000,8,"Compact sling bag, convenient for carrying essentials",2
+144,"Trolley Bag","Luggage Bag","Samsonite",8000,9,"Sturdy trolley bag, glides smoothly",3
+145,"Backpack","Casual Backpack","Nike",3000,9,"Spacious backpack, great for daily use",1
+146,"Tote Bag","Shoulder Bag","Louis Vuitton",5000,8,"Stylish tote bag, but the straps could be sturdier",2
+147,"Messenger Bag","Crossbody Bag","Fossil",4000,7,"Good size messenger bag, but the material feels cheap",3
+148,"Duffel Bag","Travel Bag","The North Face",6000,9,"Durable duffel bag, perfect for weekend trips",1
+149,"Sling Bag","Casual Bag","Adidas",2000,8,"Compact sling bag, convenient for carrying essentials",2
+150,"Trolley Bag","Luggage Bag","Samsonite",8000,9,"Sturdy trolley bag, glides smoothly",3
+151,"Backpack","Casual Backpack","Nike",3000,9,"Spacious backpack, great for daily use",1
+152,"Tote Bag","Shoulder Bag","Louis Vuitton",5000,8,"Stylish tote bag, but the straps could be sturdier",2
+153,"Messenger Bag","Crossbody Bag","Fossil",4000,7,"Good size messenger bag, but the material feels cheap",3
+154,"Duffel Bag","Travel Bag","The North Face",6000,9,"Durable duffel bag, perfect for weekend trips",1
+155,"Sling Bag","Casual Bag","Adidas",2000,8,"Compact sling bag, convenient for carrying essentials",2
+156,"Trolley Bag","Luggage Bag","Samsonite",8000,9,"Sturdy trolley bag, glides smoothly",3
+157,"Backpack","Casual Backpack","Nike",3000,9,"Spacious backpack, great for daily use",1
+158,"Tote Bag","Shoulder Bag","Louis Vuitton",5000,8,"Stylish tote bag, but the straps could be sturdier",2
+159,"Messenger Bag","Crossbody Bag","Fossil",4000,7,"Good size messenger bag, but the material feels cheap",3
+160,"Duffel Bag","Travel Bag","The North Face",6000,9,"Durable duffel bag, perfect for weekend trips",1
+161,"Sling Bag","Casual Bag","Adidas",2000,8,"Compact sling bag, convenient for carrying essentials",2
+162,"Trolley Bag","Luggage Bag","Samsonite",8000,9,"Sturdy trolley bag, glides smoothly",3
+163,"Backpack","Casual Backpack","Nike",3000,9,"Spacious backpack, great for daily use",1
+164,"Tote Bag","Shoulder Bag","Louis Vuitton",5000,8,"Stylish tote bag, but the straps could be sturdier",2
+165,"Messenger Bag","Crossbody Bag","Fossil",4000,7,"Good size messenger bag, but the material feels cheap",3
+166,"Duffel Bag","Travel Bag","The North Face",6000,9,"Durable duffel bag, perfect for weekend trips",1
+167,"Sling Bag","Casual Bag","Adidas",2000,8,"Compact sling bag, convenient for carrying essentials",2
+168,"Trolley Bag","Luggage Bag","Samsonite",8000,9,"Sturdy trolley bag, glides smoothly",3
+169,"Backpack","Casual Backpack","Nike",3000,9,"Spacious backpack, great for daily use",1
+170,"Tote Bag","Shoulder Bag","Louis Vuitton",5000,8,"Stylish tote bag, but the straps could be sturdier",2
+171,"Messenger Bag","Crossbody Bag","Fossil",4000,7,"Good size messenger bag, but the material feels cheap",3
+172,"Duffel Bag","Travel Bag","The North Face",6000,9,"Durable duffel bag, perfect for weekend trips",1
+173,"Sling Bag","Casual Bag","Adidas",2000,8,"Compact sling bag, convenient for carrying essentials",2
+174,"Trolley Bag","Luggage Bag","Samsonite",8000,9,"Sturdy trolley bag, glides smoothly",3
+175,"Backpack","Casual Backpack","Nike",3000,9,"Spacious backpack, great for daily use",1
+176,"Tote Bag","Shoulder Bag","Louis Vuitton",5000,8,"Stylish tote bag, but the straps could be sturdier",2
+177,"Messenger Bag","Crossbody Bag","Fossil",4000,7,"Good size messenger bag, but the material feels cheap",3
+178,"Duffel Bag","Travel Bag","The North Face",6000,9,"Durable duffel bag, perfect for weekend trips",1
+179,"Sling Bag","Casual Bag","Adidas",2000,8,"Compact sling bag, convenient for carrying essentials",2
+180,"Trolley Bag","Luggage Bag","Samsonite",8000,9,"Sturdy trolley bag, glides smoothly",3
+181,"Backpack","Casual Backpack","Nike",3000,9,"Spacious backpack, great for daily use",1
+182,"Tote Bag","Shoulder Bag","Louis Vuitton",5000,8,"Stylish tote bag, but the straps could be sturdier",2
+183,"Messenger Bag","Crossbody Bag","Fossil",4000,7,"Good size messenger bag, but the material feels cheap",3
+184,"Duffel Bag","Travel Bag","The North Face",6000,9,"Durable duffel bag, perfect for weekend trips",1
+185,"Sling Bag","Casual Bag","Adidas",2000,8,"Compact sling bag, convenient for carrying essentials",2
+186,"Trolley Bag","Luggage Bag","Samsonite",8000,9,"Sturdy trolley bag, glides smoothly",3
+187,"Backpack","Casual Backpack","Nike",3000,9,"Spacious backpack, great for daily use",1
+188,"Tote Bag","Shoulder Bag","Louis Vuitton",5000,8,"Stylish tote bag, but the straps could be sturdier",2
+189,"Messenger Bag","Crossbody Bag","Fossil",4000,7,"Good size messenger bag, but the material feels cheap",3
+190,"Duffel Bag","Travel Bag","The North Face",6000,9,"Durable duffel bag, perfect for weekend trips",1
+191,"Sling Bag","Casual Bag","Adidas",2000,8,"Compact sling bag, convenient for carrying essentials",2
+192,"Trolley Bag","Luggage Bag","Samsonite",8000,9,"Sturdy trolley bag, glides smoothly",3
+193,"Backpack","Casual Backpack","Nike",3000,9,"Spacious backpack, great for daily use",1
+194,"Tote Bag","Shoulder Bag","Louis Vuitton",5000,8,"Stylish tote bag, but the straps could be sturdier",2
+195,"Messenger Bag","Crossbody Bag","Fossil",4000,7,"Good size messenger bag, but the material feels cheap",3
+196,"Duffel Bag","Travel Bag","The North Face",6000,9,"Durable duffel bag, perfect for weekend trips",1
+197,"Sling Bag","Casual Bag","Adidas",2000,8,"Compact sling bag, convenient for carrying essentials",2
+198,"Trolley Bag","Luggage Bag","Samsonite",8000,9,"Sturdy trolley bag, glides smoothly",3
+199,"Backpack","Casual Backpack","Nike",3000,9,"Spacious backpack, great for daily use",1
+200,"Tote Bag","Shoulder Bag","Louis Vuitton",5000,8,"Stylish tote bag, but the straps could be sturdier",2
