@@ -1,0 +1,201 @@
+appliances_id,appliances_name,appliances_type,appliances_brand,price,customer_review_rating,description,years_used
+1,"BlendPro 2000 Blender","Kitchen Appliance","Philips",2500,9,"Powerful blender, great for smoothies and shakes",2
+2,"QuickHeat Microwave","Kitchen Appliance","Samsung",6000,8,"Good microwave overall, but takes longer to heat food",3
+3,"MixMaster Plus Mixer","Kitchen Appliance","Bajaj",3500,7,"Decent mixer, but a bit noisy",1
+4,"TurboHeat Induction Cooker","Kitchen Appliance","Prestige",3000,9,"Efficient induction cooker, heats up quickly",2
+5,"SmartCooker XL","Kitchen Appliance","Butterfly",4000,8,"Sturdy cooker, but the handles get hot",4
+6,"EcoWash Washing Machine","Home Appliance","LG",15000,9,"Great washing machine, very efficient",2
+7,"CoolBreeze AC","Home Appliance","Voltas",30000,8,"Cools the room quickly, but noisy at times",3
+8,"FreshFrost Refrigerator","Home Appliance","Whirlpool",20000,9,"Spacious refrigerator, keeps food fresh for longer",5
+9,"iPhonex Mobile Phone","Electronic Device","Apple",60000,8,"Good phone overall, but battery life could be better",1
+10,"Spectra Laptop","Electronic Device","HP",55000,7,"Decent laptop, but the keyboard feels a bit stiff",2
+11,"Velocity Desktop","Electronic Device","Dell",45000,9,"Fast computer, great for multitasking",3
+12,"SoundScape Headphones","Electronic Device","Sony",3000,8,"Good sound quality, comfortable to wear",2
+13,"BassBoom Speakers","Electronic Device","JBL",8000,9,"Excellent sound quality, worth the price",1
+14,"SteamMaster Iron Box","Home Appliance","Philips",1500,7,"Average iron box, takes a while to heat up",3
+15,"WarmWave Heater","Home Appliance","Usha",2000,8,"Effective heater, keeps the room warm",4
+16,"BlendPro 2000 Blender","Kitchen Appliance","Philips",2500,9,"Powerful blender, great for smoothies and shakes",2
+17,"QuickHeat Microwave","Kitchen Appliance","Samsung",6000,8,"Good microwave overall, but takes longer to heat food",3
+18,"MixMaster Plus Mixer","Kitchen Appliance","Bajaj",3500,7,"Decent mixer, but a bit noisy",1
+19,"TurboHeat Induction Cooker","Kitchen Appliance","Prestige",3000,9,"Efficient induction cooker, heats up quickly",2
+20,"SmartCooker XL","Kitchen Appliance","Butterfly",4000,8,"Sturdy cooker, but the handles get hot",4
+21,"EcoWash Washing Machine","Home Appliance","LG",15000,9,"Great washing machine, very efficient",2
+22,"CoolBreeze AC","Home Appliance","Voltas",30000,8,"Cools the room quickly, but noisy at times",3
+23,"FreshFrost Refrigerator","Home Appliance","Whirlpool",20000,9,"Spacious refrigerator, keeps food fresh for longer",5
+24,"iPhonex Mobile Phone","Electronic Device","Apple",60000,8,"Good phone overall, but battery life could be better",1
+25,"Spectra Laptop","Electronic Device","HP",55000,7,"Decent laptop, but the keyboard feels a bit stiff",2
+26,"Velocity Desktop","Electronic Device","Dell",45000,9,"Fast computer, great for multitasking",3
+27,"SoundScape Headphones","Electronic Device","Sony",3000,8,"Good sound quality, comfortable to wear",2
+28,"BassBoom Speakers","Electronic Device","JBL",8000,9,"Excellent sound quality, worth the price",1
+29,"SteamMaster Iron Box","Home Appliance","Philips",1500,7,"Average iron box, takes a while to heat up",3
+30,"WarmWave Heater","Home Appliance","Usha",2000,8,"Effective heater, keeps the room warm",4
+31,"BlendPro 2000 Blender","Kitchen Appliance","Philips",2500,9,"Powerful blender, great for smoothies and shakes",2
+32,"QuickHeat Microwave","Kitchen Appliance","Samsung",6000,8,"Good microwave overall, but takes longer to heat food",3
+33,"MixMaster Plus Mixer","Kitchen Appliance","Bajaj",3500,7,"Decent mixer, but a bit noisy",1
+34,"TurboHeat Induction Cooker","Kitchen Appliance","Prestige",3000,9,"Efficient induction cooker, heats up quickly",2
+35,"SmartCooker XL","Kitchen Appliance","Butterfly",4000,8,"Sturdy cooker, but the handles get hot",4
+36,"EcoWash Washing Machine","Home Appliance","LG",15000,9,"Great washing machine, very efficient",2
+37,"CoolBreeze AC","Home Appliance","Voltas",30000,8,"Cools the room quickly, but noisy at times",3
+38,"FreshFrost Refrigerator","Home Appliance","Whirlpool",20000,9,"Spacious refrigerator, keeps food fresh for longer",5
+39,"iPhonex Mobile Phone","Electronic Device","Apple",60000,8,"Good phone overall, but battery life could be better",1
+40,"Spectra Laptop","Electronic Device","HP",55000,7,"Decent laptop, but the keyboard feels a bit stiff",2
+41,"Velocity Desktop","Electronic Device","Dell",45000,9,"Fast computer, great for multitasking",3
+42,"SoundScape Headphones","Electronic Device","Sony",3000,8,"Good sound quality, comfortable to wear",2
+43,"BassBoom Speakers","Electronic Device","JBL",8000,9,"Excellent sound quality, worth the price",1
+44,"SteamMaster Iron Box","Home Appliance","Philips",1500,7,"Average iron box, takes a while to heat up",3
+45,"WarmWave Heater","Home Appliance","Usha",2000,8,"Effective heater, keeps the room warm",4
+46,"BlendPro 2000 Blender","Kitchen Appliance","Philips",2500,9,"Powerful blender, great for smoothies and shakes",2
+47,"QuickHeat Microwave","Kitchen Appliance","Samsung",6000,8,"Good microwave overall, but takes longer to heat food",3
+48,"MixMaster Plus Mixer","Kitchen Appliance","Bajaj",3500,7,"Decent mixer, but a bit noisy",1
+49,"TurboHeat Induction Cooker","Kitchen Appliance","Prestige",3000,9,"Efficient induction cooker, heats up quickly",2
+50,"SmartCooker XL","Kitchen Appliance","Butterfly",4000,8,"Sturdy cooker, but the handles get hot",4
+51,"EcoWash Washing Machine","Home Appliance","LG",15000,9,"Great washing machine, very efficient",2
+52,"CoolBreeze AC","Home Appliance","Voltas",30000,8,"Cools the room quickly, but noisy at times",3
+53,"FreshFrost Refrigerator","Home Appliance","Whirlpool",20000,9,"Spacious refrigerator, keeps food fresh for longer",5
+54,"iPhonex Mobile Phone","Electronic Device","Apple",60000,8,"Good phone overall, but battery life could be better",1
+55,"Spectra Laptop","Electronic Device","HP",55000,7,"Decent laptop, but the keyboard feels a bit stiff",2
+56,"Velocity Desktop","Electronic Device","Dell",45000,9,"Fast computer, great for multitasking",3
+57,"SoundScape Headphones","Electronic Device","Sony",3000,8,"Good sound quality, comfortable to wear",2
+58,"BassBoom Speakers","Electronic Device","JBL",8000,9,"Excellent sound quality, worth the price",1
+59,"SteamMaster Iron Box","Home Appliance","Philips",1500,7,"Average iron box, takes a while to heat up",3
+60,"WarmWave Heater","Home Appliance","Usha",2000,8,"Effective heater, keeps the room warm",4
+61,"BlendPro 2000 Blender","Kitchen Appliance","Philips",2500,9,"Powerful blender, great for smoothies and shakes",2
+62,"QuickHeat Microwave","Kitchen Appliance","Samsung",6000,8,"Good microwave overall, but takes longer to heat food",3
+63,"MixMaster Plus Mixer","Kitchen Appliance","Bajaj",3500,7,"Decent mixer, but a bit noisy",1
+64,"TurboHeat Induction Cooker","Kitchen Appliance","Prestige",3000,9,"Efficient induction cooker, heats up quickly",2
+65,"SmartCooker XL","Kitchen Appliance","Butterfly",4000,8,"Sturdy cooker, but the handles get hot",4
+66,"EcoWash Washing Machine","Home Appliance","LG",15000,9,"Great washing machine, very efficient",2
+67,"CoolBreeze AC","Home Appliance","Voltas",30000,8,"Cools the room quickly, but noisy at times",3
+68,"FreshFrost Refrigerator","Home Appliance","Whirlpool",20000,9,"Spacious refrigerator, keeps food fresh for longer",5
+69,"iPhonex Mobile Phone","Electronic Device","Apple",60000,8,"Good phone overall, but battery life could be better",1
+70,"Spectra Laptop","Electronic Device","HP",55000,7,"Decent laptop, but the keyboard feels a bit stiff",2
+71,"Velocity Desktop","Electronic Device","Dell",45000,9,"Fast computer, great for multitasking",3
+72,"SoundScape Headphones","Electronic Device","Sony",3000,8,"Good sound quality, comfortable to wear",2
+73,"BassBoom Speakers","Electronic Device","JBL",8000,9,"Excellent sound quality, worth the price",1
+74,"SteamMaster Iron Box","Home Appliance","Philips",1500,7,"Average iron box, takes a while to heat up",3
+75,"WarmWave Heater","Home Appliance","Usha",2000,8,"Effective heater, keeps the room warm",4
+76,"BlendPro 2000 Blender","Kitchen Appliance","Philips",2500,9,"Powerful blender, great for smoothies and shakes",2
+77,"QuickHeat Microwave","Kitchen Appliance","Samsung",6000,8,"Good microwave overall, but takes longer to heat food",3
+78,"MixMaster Plus Mixer","Kitchen Appliance","Bajaj",3500,7,"Decent mixer, but a bit noisy",1
+79,"TurboHeat Induction Cooker","Kitchen Appliance","Prestige",3000,9,"Efficient induction cooker, heats up quickly",2
+80,"SmartCooker XL","Kitchen Appliance","Butterfly",4000,8,"Sturdy cooker, but the handles get hot",4
+81,"EcoWash Washing Machine","Home Appliance","LG",15000,9,"Great washing machine, very efficient",2
+82,"CoolBreeze AC","Home Appliance","Voltas",30000,8,"Cools the room quickly, but noisy at times",3
+83,"FreshFrost Refrigerator","Home Appliance","Whirlpool",20000,9,"Spacious refrigerator, keeps food fresh for longer",5
+84,"iPhonex Mobile Phone","Electronic Device","Apple",60000,8,"Good phone overall, but battery life could be better",1
+85,"Spectra Laptop","Electronic Device","HP",55000,7,"Decent laptop, but the keyboard feels a bit stiff",2
+86,"Velocity Desktop","Electronic Device","Dell",45000,9,"Fast computer, great for multitasking",3
+87,"SoundScape Headphones","Electronic Device","Sony",3000,8,"Good sound quality, comfortable to wear",2
+88,"BassBoom Speakers","Electronic Device","JBL",8000,9,"Excellent sound quality, worth the price",1
+89,"SteamMaster Iron Box","Home Appliance","Philips",1500,7,"Average iron box, takes a while to heat up",3
+90,"WarmWave Heater","Home Appliance","Usha",2000,8,"Effective heater, keeps the room warm",4
+91,"BlendPro 2000 Blender","Kitchen Appliance","Philips",2500,9,"Powerful blender, great for smoothies and shakes",2
+92,"QuickHeat Microwave","Kitchen Appliance","Samsung",6000,8,"Good microwave overall, but takes longer to heat food",3
+93,"MixMaster Plus Mixer","Kitchen Appliance","Bajaj",3500,7,"Decent mixer, but a bit noisy",1
+94,"TurboHeat Induction Cooker","Kitchen Appliance","Prestige",3000,9,"Efficient induction cooker, heats up quickly",2
+95,"SmartCooker XL","Kitchen Appliance","Butterfly",4000,8,"Sturdy cooker, but the handles get hot",4
+96,"EcoWash Washing Machine","Home Appliance","LG",15000,9,"Great washing machine, very efficient",2
+97,"CoolBreeze AC","Home Appliance","Voltas",30000,8,"Cools the room quickly, but noisy at times",3
+98,"FreshFrost Refrigerator","Home Appliance","Whirlpool",20000,9,"Spacious refrigerator, keeps food fresh for longer",5
+99,"iPhonex Mobile Phone","Electronic Device","Apple",60000,8,"Good phone overall, but battery life could be better",1
+100,"Spectra Laptop","Electronic Device","HP",55000,7,"Decent laptop, but the keyboard feels a bit stiff",2
+101,"Velocity Desktop","Electronic Device","Dell",45000,9,"Fast computer, great for multitasking",3
+102,"SoundScape Headphones","Electronic Device","Sony",3000,8,"Good sound quality, comfortable to wear",2
+103,"BassBoom Speakers","Electronic Device","JBL",8000,9,"Excellent sound quality, worth the price",1
+104,"SteamMaster Iron Box","Home Appliance","Philips",1500,7,"Average iron box, takes a while to heat up",3
+105,"WarmWave Heater","Home Appliance","Usha",2000,8,"Effective heater, keeps the room warm",4
+106,"BlendPro 2000 Blender","Kitchen Appliance","Philips",2500,9,"Powerful blender, great for smoothies and shakes",2
+107,"QuickHeat Microwave","Kitchen Appliance","Samsung",6000,8,"Good microwave overall, but takes longer to heat food",3
+108,"MixMaster Plus Mixer","Kitchen Appliance","Bajaj",3500,7,"Decent mixer, but a bit noisy",1
+109,"TurboHeat Induction Cooker","Kitchen Appliance","Prestige",3000,9,"Efficient induction cooker, heats up quickly",2
+110,"SmartCooker XL","Kitchen Appliance","Butterfly",4000,8,"Sturdy cooker, but the handles get hot",4
+111,"EcoWash Washing Machine","Home Appliance","LG",15000,9,"Great washing machine, very efficient",2
+112,"CoolBreeze AC","Home Appliance","Voltas",30000,8,"Cools the room quickly, but noisy at times",3
+113,"FreshFrost Refrigerator","Home Appliance","Whirlpool",20000,9,"Spacious refrigerator, keeps food fresh for longer",5
+114,"iPhonex Mobile Phone","Electronic Device","Apple",60000,8,"Good phone overall, but battery life could be better",1
+115,"Spectra Laptop","Electronic Device","HP",55000,7,"Decent laptop, but the keyboard feels a bit stiff",2
+116,"Velocity Desktop","Electronic Device","Dell",45000,9,"Fast computer, great for multitasking",3
+117,"SoundScape Headphones","Electronic Device","Sony",3000,8,"Good sound quality, comfortable to wear",2
+118,"BassBoom Speakers","Electronic Device","JBL",8000,9,"Excellent sound quality, worth the price",1
+119,"SteamMaster Iron Box","Home Appliance","Philips",1500,7,"Average iron box, takes a while to heat up",3
+120,"WarmWave Heater","Home Appliance","Usha",2000,8,"Effective heater, keeps the room warm",4
+121,"BlendPro 2000 Blender","Kitchen Appliance","Philips",2500,9,"Powerful blender, great for smoothies and shakes",2
+122,"QuickHeat Microwave","Kitchen Appliance","Samsung",6000,8,"Good microwave overall, but takes longer to heat food",3
+123,"MixMaster Plus Mixer","Kitchen Appliance","Bajaj",3500,7,"Decent mixer, but a bit noisy",1
+124,"TurboHeat Induction Cooker","Kitchen Appliance","Prestige",3000,9,"Efficient induction cooker, heats up quickly",2
+125,"SmartCooker XL","Kitchen Appliance","Butterfly",4000,8,"Sturdy cooker, but the handles get hot",4
+126,"EcoWash Washing Machine","Home Appliance","LG",15000,9,"Great washing machine, very efficient",2
+127,"CoolBreeze AC","Home Appliance","Voltas",30000,8,"Cools the room quickly, but noisy at times",3
+128,"FreshFrost Refrigerator","Home Appliance","Whirlpool",20000,9,"Spacious refrigerator, keeps food fresh for longer",5
+129,"iPhonex Mobile Phone","Electronic Device","Apple",60000,8,"Good phone overall, but battery life could be better",1
+130,"Spectra Laptop","Electronic Device","HP",55000,7,"Decent laptop, but the keyboard feels a bit stiff",2
+131,"Velocity Desktop","Electronic Device","Dell",45000,9,"Fast computer, great for multitasking",3
+132,"SoundScape Headphones","Electronic Device","Sony",3000,8,"Good sound quality, comfortable to wear",2
+133,"BassBoom Speakers","Electronic Device","JBL",8000,9,"Excellent sound quality, worth the price",1
+134,"SteamMaster Iron Box","Home Appliance","Philips",1500,7,"Average iron box, takes a while to heat up",3
+135,"WarmWave Heater","Home Appliance","Usha",2000,8,"Effective heater, keeps the room warm",4
+136,"BlendPro 2000 Blender","Kitchen Appliance","Philips",2500,9,"Powerful blender, great for smoothies and shakes",2
+137,"QuickHeat Microwave","Kitchen Appliance","Samsung",6000,8,"Good microwave overall, but takes longer to heat food",3
+138,"MixMaster Plus Mixer","Kitchen Appliance","Bajaj",3500,7,"Decent mixer, but a bit noisy",1
+139,"TurboHeat Induction Cooker","Kitchen Appliance","Prestige",3000,9,"Efficient induction cooker, heats up quickly",2
+140,"SmartCooker XL","Kitchen Appliance","Butterfly",4000,8,"Sturdy cooker, but the handles get hot",4
+141,"EcoWash Washing Machine","Home Appliance","LG",15000,9,"Great washing machine, very efficient",2
+142,"CoolBreeze AC","Home Appliance","Voltas",30000,8,"Cools the room quickly, but noisy at times",3
+143,"FreshFrost Refrigerator","Home Appliance","Whirlpool",20000,9,"Spacious refrigerator, keeps food fresh for longer",5
+144,"iPhonex Mobile Phone","Electronic Device","Apple",60000,8,"Good phone overall, but battery life could be better",1
+145,"Spectra Laptop","Electronic Device","HP",55000,7,"Decent laptop, but the keyboard feels a bit stiff",2
+146,"Velocity Desktop","Electronic Device","Dell",45000,9,"Fast computer, great for multitasking",3
+147,"SoundScape Headphones","Electronic Device","Sony",3000,8,"Good sound quality, comfortable to wear",2
+148,"BassBoom Speakers","Electronic Device","JBL",8000,9,"Excellent sound quality, worth the price",1
+149,"SteamMaster Iron Box","Home Appliance","Philips",1500,7,"Average iron box, takes a while to heat up",3
+150,"WarmWave Heater","Home Appliance","Usha",2000,8,"Effective heater, keeps the room warm",4
+151,"BlendPro 2000 Blender","Kitchen Appliance","Philips",2500,9,"Powerful blender, great for smoothies and shakes",2
+152,"QuickHeat Microwave","Kitchen Appliance","Samsung",6000,8,"Good microwave overall, but takes longer to heat food",3
+153,"MixMaster Plus Mixer","Kitchen Appliance","Bajaj",3500,7,"Decent mixer, but a bit noisy",1
+154,"TurboHeat Induction Cooker","Kitchen Appliance","Prestige",3000,9,"Efficient induction cooker, heats up quickly",2
+155,"SmartCooker XL","Kitchen Appliance","Butterfly",4000,8,"Sturdy cooker, but the handles get hot",4
+156,"EcoWash Washing Machine","Home Appliance","LG",15000,9,"Great washing machine, very efficient",2
+157,"CoolBreeze AC","Home Appliance","Voltas",30000,8,"Cools the room quickly, but noisy at times",3
+158,"FreshFrost Refrigerator","Home Appliance","Whirlpool",20000,9,"Spacious refrigerator, keeps food fresh for longer",5
+159,"iPhonex Mobile Phone","Electronic Device","Apple",60000,8,"Good phone overall, but battery life could be better",1
+160,"Spectra Laptop","Electronic Device","HP",55000,7,"Decent laptop, but the keyboard feels a bit stiff",2
+161,"Velocity Desktop","Electronic Device","Dell",45000,9,"Fast computer, great for multitasking",3
+162,"SoundScape Headphones","Electronic Device","Sony",3000,8,"Good sound quality, comfortable to wear",2
+163,"BassBoom Speakers","Electronic Device","JBL",8000,9,"Excellent sound quality, worth the price",1
+164,"SteamMaster Iron Box","Home Appliance","Philips",1500,7,"Average iron box, takes a while to heat up",3
+165,"WarmWave Heater","Home Appliance","Usha",2000,8,"Effective heater, keeps the room warm",4
+166,"BlendPro 2000 Blender","Kitchen Appliance","Philips",2500,9,"Powerful blender, great for smoothies and shakes",2
+167,"QuickHeat Microwave","Kitchen Appliance","Samsung",6000,8,"Good microwave overall, but takes longer to heat food",3
+168,"MixMaster Plus Mixer","Kitchen Appliance","Bajaj",3500,7,"Decent mixer, but a bit noisy",1
+169,"TurboHeat Induction Cooker","Kitchen Appliance","Prestige",3000,9,"Efficient induction cooker, heats up quickly",2
+170,"SmartCooker XL","Kitchen Appliance","Butterfly",4000,8,"Sturdy cooker, but the handles get hot",4
+171,"EcoWash Washing Machine","Home Appliance","LG",15000,9,"Great washing machine, very efficient",2
+172,"CoolBreeze AC","Home Appliance","Voltas",30000,8,"Cools the room quickly, but noisy at times",3
+173,"FreshFrost Refrigerator","Home Appliance","Whirlpool",20000,9,"Spacious refrigerator, keeps food fresh for longer",5
+174,"iPhonex Mobile Phone","Electronic Device","Apple",60000,8,"Good phone overall, but battery life could be better",1
+175,"Spectra Laptop","Electronic Device","HP",55000,7,"Decent laptop, but the keyboard feels a bit stiff",2
+176,"Velocity Desktop","Electronic Device","Dell",45000,9,"Fast computer, great for multitasking",3
+177,"SoundScape Headphones","Electronic Device","Sony",3000,8,"Good sound quality, comfortable to wear",2
+178,"BassBoom Speakers","Electronic Device","JBL",8000,9,"Excellent sound quality, worth the price",1
+179,"SteamMaster Iron Box","Home Appliance","Philips",1500,7,"Average iron box, takes a while to heat up",3
+180,"WarmWave Heater","Home Appliance","Usha",2000,8,"Effective heater, keeps the room warm",4
+181,"BlendPro 2000 Blender","Kitchen Appliance","Philips",2500,9,"Powerful blender, great for smoothies and shakes",2
+182,"QuickHeat Microwave","Kitchen Appliance","Samsung",6000,8,"Good microwave overall, but takes longer to heat food",3
+183,"MixMaster Plus Mixer","Kitchen Appliance","Bajaj",3500,7,"Decent mixer, but a bit noisy",1
+184,"TurboHeat Induction Cooker","Kitchen Appliance","Prestige",3000,9,"Efficient induction cooker, heats up quickly",2
+185,"SmartCooker XL","Kitchen Appliance","Butterfly",4000,8,"Sturdy cooker, but the handles get hot",4
+186,"EcoWash Washing Machine","Home Appliance","LG",15000,9,"Great washing machine, very efficient",2
+187,"CoolBreeze AC","Home Appliance","Voltas",30000,8,"Cools the room quickly, but noisy at times",3
+188,"FreshFrost Refrigerator","Home Appliance","Whirlpool",20000,9,"Spacious refrigerator, keeps food fresh for longer",5
+189,"iPhonex Mobile Phone","Electronic Device","Apple",60000,8,"Good phone overall, but battery life could be better",1
+190,"Spectra Laptop","Electronic Device","HP",55000,7,"Decent laptop, but the keyboard feels a bit stiff",2
+191,"Velocity Desktop","Electronic Device","Dell",45000,9,"Fast computer, great for multitasking",3
+192,"SoundScape Headphones","Electronic Device","Sony",3000,8,"Good sound quality, comfortable to wear",2
+193,"BassBoom Speakers","Electronic Device","JBL",8000,9,"Excellent sound quality, worth the price",1
+194,"SteamMaster Iron Box","Home Appliance","Philips",1500,7,"Average iron box, takes a while to heat up",3
+195,"WarmWave Heater","Home Appliance","Usha",2000,8,"Effective heater, keeps the room warm",4
+196,"BlendPro 2000 Blender","Kitchen Appliance","Philips",2500,9,"Powerful blender, great for smoothies and shakes",2
+197,"QuickHeat Microwave","Kitchen Appliance","Samsung",6000,8,"Good microwave overall, but takes longer to heat food",3
+198,"MixMaster Plus Mixer","Kitchen Appliance","Bajaj",3500,7,"Decent mixer, but a bit noisy",1
+199,"TurboHeat Induction Cooker","Kitchen Appliance","Prestige",3000,9,"Efficient induction cooker, heats up quickly",2
+200,"SmartCooker XL","Kitchen Appliance","Butterfly",4000,8,"Sturdy cooker, but the handles get hot",4
