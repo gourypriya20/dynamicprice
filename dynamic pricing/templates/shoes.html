@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>OLX FRAUD DETECTION </title>
+        <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
+
+        <link rel="stylesheet" href="/static/css/style.css">
+    </head>
+        
+    <body>
+        
+        <section id="header">
+            <img src= "static/images/eve.jpg.jpg" class="'logo"  alt="img desc" width="100" height="50">
+            <div>
+                <ul id="navbar">
+                    <li> <a href ="index"> Home</a></li>
+                    <li> <a class ="active" href ="shop"> Shop</a></li>
+                    <!--<li> <a href ="sign"> Sign Up</a></li>-->
+                    <li> <a href ="about"> About</a></li>
+                    <li> <a href ="contact"> Contact</a></li>
+                    <li> <a href ="cart"><img src = "static/images/cart.png" alt="Cart" width="30" height="30"></a></li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="prodetails" class="section-p1">
+            <div class="single-pro-image">
+                <img src="static/images/shoe.jpeg" width="100%" id="MainImg" alt="">
+                <div class="small-img-group">
+                    <div class="small-img-col">
+                        <img src="static/images/shoe1.jpeg" width="100%" class="small-img" alt="">
+                    </div>
+                    <div class="small-img-col">
+                        <img src="static/images/shoe2.png" width="100%"  class="small-img" alt="">
+                    </div>
+                    <div class="small-img-col">
+                        <img src="static/images/shoe3.jpeg" width="100%"  class="small-img" alt="">
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="single-pro-details">
+                <h6>Nike Shoes</h6>
+                <h2>Rs 1500 </h2>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+
+                <h4> Product Details</h4>
+                <span><p>very bad shoe. Quality is very poor.Very bad <br>not comfortable ..Not worth the use.
+                </p>
+                <button class="normal" >Add to Cart</button>
+                    <form action="#" method="post">
+                        <button type='submit' class="normal">Predict the current price</button>
+                    </form>
+                <br>
+                <br>
+                {{result}}
+
+
+                </span>
+            </div>
+        </section>
+
+        <section id="product1" class="section-p1">
+            <p>You may also like</p>
+            <div class="Pro-container">
+
+                    <div class="pro">
+                        <img src="static/images/shirt.jpg" alt="">
+                        <div class="des">
+                            <span>Adidas</span>
+                            <h5>Used only twice <br>
+                                Brought from Ajio
+                    
+                            </h5>
+                            <div class="star">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                            </div>
+                            <h4>Rs200</h4>
+                            <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
+                        </div>
+                    </div>
+            
+                    <div class="pro">
+                        <img src="static/images/shirt1.jpeg" alt="">
+                        <div class="des">
+                            <span>OTG Oven</span>
+                            <h5>2 yr old <br>
+                                Brought from flipkart<br>
+                                Have 3 yrs warranty
+                            </h5>
+
+                            <div class="star">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                
+                            </div>
+
+                            <h4>Rs2500</h4>
+
+                            <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
+                            
+                        </div>
+                    </div>
+            
+                    <div class="pro">
+                        <img src="static/images/phone.jpeg" alt="">
+                        <div class="des">
+                            <span>Apple iPhone 7 plus</span>
+                            <h5>32 GB RAM <br>
+                                Colour Black<br>
+                                1 year old<br>
+                                Small scratch on the screen<br>
+                                Battery life 8hrs
+                            </h5>
+                            <div class="star">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                
+                            </div>
+                            <h4>Rs10000</h4>
+                            <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
+                        </div>
+                    </div>
+            
+                    <div class="pro">
+                        <img src="static/images/tv.jpeg" alt="">
+                        <div class="des">
+                            <span>LCD TV</span>
+                            <h5>Ultra high definition <br>
+                                Samsung LED<br>
+                                4k resolution<br>
+                                used for 2 year<br>
+                                Good picture quality<br>
+                                65 inch
+                            </h5>
+                            <div class="star">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                            </div>
+                            <h4>Rs6000</h4>
+                            <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
+                        </div>
+                    </div>
+
+            </div>
+
+        </section>
+        <section id="newsletter" class="section-p1 section-m1">
+            <h2>Sign up here!!</h2>
+            <div class="form">
+                <input type="text" placeholder="Your email address">
+                <button class="normal">Sign Up</button>
+            </div>
+
+
+        </section>
+
+        <footer class="section-p1">
+            <div class="col">
+                <img src="static/images/eve.jpg.jpg" alt="" width="100" height="50">
+                <h4> Contact</h4>
+                <p><strong>Address: </strong> Mar Athanasius College </p>
+                <p><strong>Phone: </strong> 123456789</p>
+                
+            </div>
+            <div class="col">
+                <h4> About</h4>
+                <a href="#"> About us</a>
+                <a href="#"> Privacy Policy</a>
+                <a href="#"> Terms and conditions</a>
+                <a href="#"> Contact Us</a>
+            </div>
+
+            <div class="col">
+                <h4> My Account</h4>
+                <a href="#"> Sign In</a>
+                <a href="#"> View cart</a>
+                <a href="#"> My wishlist</a>
+                <a href="#"> Track my order</a>
+                <a href="#"> Help</a>
+            </div>
+            
+
+
+        </footer>
+        <script>
+            var MainImg = document.getElementById("MainImg");
+            var smallimg=document.getElementsByClassName("small-img");
+            smallimg[0].onclick=function(){
+                MainImg.src=smallimg[0].src;
+            }
+            smallimg[1].onclick=function(){
+                MainImg.src=smallimg[1].src;
+            }
+            smallimg[2].onclick=function(){
+                MainImg.src=smallimg[2].src;
+            }
+            smallimg[3].onclick=function(){
+                MainImg.src=smallimg[3].src;
+            }
+
+        </script>
+
+
+        <script src="script.js"></script>
+    </body>
+
+</html>
